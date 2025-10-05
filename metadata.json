@@ -1,0 +1,5 @@
+{
+  "name": "VVITU NSS ERP",
+  "description": "An ERP website for managing volunteers, events, and attendance. Features include admin and student profiles, event registration, attendance tracking, an event gallery, and a chat system for seamless communication.",
+  "requestFramePermissions": []
+}
